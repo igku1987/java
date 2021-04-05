@@ -1,2 +1,4 @@
-package reg;public class Auth {
+package reg;
+
+public class Auth {
 }

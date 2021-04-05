@@ -1,2 +1,4 @@
-package reg;public class reg {
+package reg;
+
+public class reg {
 }
